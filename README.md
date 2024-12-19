@@ -3,10 +3,11 @@
 ## About Me
 I am a passionate **Machine Learning Engineer** with a strong foundation in **data science** and **AI**. With a background in **Electrical Engineering** and experience in **Python programming**, I specialize in solving real-world problems through data-driven approaches. I love working on machine learning projects and contributing to the **AI for Good** initiative.
 
-### 🌱 I’m currently learning:
+### 🌱 I’m currently improving my skills in the following areas:
 - Deep Learning (NLP, Image Processing)
 - Advanced Machine Learning Techniques (Reinforcement Learning, Transfer Learning)
 - Cloud Technologies for ML deployment
+- Generative AI 
 
 ### 🛠️ Technologies & Tools:
 - **Programming Languages**: Python, SQL
